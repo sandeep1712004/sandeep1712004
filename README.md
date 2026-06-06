@@ -120,14 +120,13 @@ ProjectStackHighlights🌾 Agrovaa — Crop Recommendation SystemPython · sciki
 
 🎓 Education
 <div align="center">
-DegreeInstitutionYearScore🎓 B.Tech — Information TechnologySri Sairam Institute of Technology, Chennai2022 – 2026CGPA: 8.22📘 Higher Secondary (HSC)Rose Mary Matriculation HSSCompleted 202289.67%📗 Secondary School (SSLC)Rose Mary Matriculation HSSCompleted 202098.2%
+DegreeInstitutionYearScore🎓 B.Tech — Information TechnologySri Sairam Institute of Technology, Chennai2022 – 2026 CGPA: 8.22📘 Higher Secondary (HSC)Rose Mary Matriculation HSSCompleted 2022 89.67%📗 Secondary School (SSLC)Rose Mary Matriculation HSSCompleted 2020 98.2%
 </div>
 
 📖 Currently Learning
 🧱 System Design       →  HLD, LLD, Scalability Patterns
 ☕ Spring Boot         →  REST APIs, JPA, Microservices
 🧠 Advanced DSA        →  Graphs, DP, Segment Trees
-☁️  Cloud (AWS)        →  EC2, S3, Lambda, Deployment
 🔐 OOP Design          →  SOLID Principles, Design Patterns
 
 <div align="center">
